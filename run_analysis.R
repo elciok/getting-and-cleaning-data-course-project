@@ -123,4 +123,4 @@ dataMeans <- data %>%
   summarize_each(funs(mean)) # compute mean for each column
 
 # writes resulting file
-write.table(dataMeans, "./result.txt")
+write.table(dataMeans, "./result.txt", row.name=FALSE)
