@@ -17,160 +17,160 @@ Columns
 
 2. subject: Subject ID to identify people that participated in the experiment. Can be an integer from 1 to 30.
 
-3. meanOf.tBodyAcc.mean.X: Mean of "tBodyAcc-mean()-X" from the source data, for each activity and subject. "tBodyAcc-mean()-X" is the mean for the body acceleration on the X axis, normalized to be in [-1, 1].
+3. mean_of_body_acceleration_on_x: Mean of "tBodyAcc-mean()-X" from the source data, for each activity and subject. "tBodyAcc-mean()-X" is the mean for the body acceleration on the X axis, normalized to be in [-1, 1].
 
-4. meanOf.tBodyAcc.mean.Y: Mean of "tBodyAcc-mean()-Y" from the source data, for each activity and subject. "tBodyAcc-mean()-Y" is the mean for the body acceleration on the Y axis, normalized to be in [-1, 1]. 
+4. mean_of_body_acceleration_on_y: Mean of "tBodyAcc-mean()-Y" from the source data, for each activity and subject. "tBodyAcc-mean()-Y" is the mean for the body acceleration on the Y axis, normalized to be in [-1, 1]. 
 
-5. meanOf.tBodyAcc.mean.Z: Mean of "tBodyAcc-mean()-Z" from the source data, for each activity and subject. "tBodyAcc-mean()-Z" is the mean for the body acceleration on the Z axis, normalized to be in [-1, 1].
+5. mean_of_body_acceleration_on_z: Mean of "tBodyAcc-mean()-Z" from the source data, for each activity and subject. "tBodyAcc-mean()-Z" is the mean for the body acceleration on the Z axis, normalized to be in [-1, 1].
 
-6. meanOf.tBodyAcc.std.X: Mean of "tBodyAcc-std()-X" from the source data, for each activity and subject. "tBodyAcc-std()-X" is the standard deviation for the body acceleration on the X axis, normalized to be in [-1, 1].
+6. standard_deviation_of_body_acceleration_on_x: Mean of "tBodyAcc-std()-X" from the source data, for each activity and subject. "tBodyAcc-std()-X" is the standard deviation for the body acceleration on the X axis, normalized to be in [-1, 1].
 
-7. meanOf.tBodyAcc.std.Y: Mean of "tBodyAcc-std()-Y" from the source data, for each activity and subject. "tBodyAcc-std()-Y" is the standard deviation for the body acceleration on the Y axis, normalized to be in [-1, 1].
+7. standard_deviation_of_body_acceleration_on_y: Mean of "tBodyAcc-std()-Y" from the source data, for each activity and subject. "tBodyAcc-std()-Y" is the standard deviation for the body acceleration on the Y axis, normalized to be in [-1, 1].
 
-8. meanOf.tBodyAcc.std.Z: Mean of "tBodyAcc-std()-Z" from the source data, for each activity and subject. "tBodyAcc-std()-Z" is the standard deviation for the body acceleration on the Z axis, normalized to be in [-1, 1].
+8. standard_deviation_of_body_acceleration_on_z: Mean of "tBodyAcc-std()-Z" from the source data, for each activity and subject. "tBodyAcc-std()-Z" is the standard deviation for the body acceleration on the Z axis, normalized to be in [-1, 1].
 
-9. meanOf.tGravityAcc.mean.X: Mean of "tGravityAcc-mean()-X" from the source data, for each activity and subject. "tGravityAcc-mean()-X" is the mean for the gravity acceleration on the X axis, normalized to be in [-1, 1].
+9. mean_of_gravity_acceleration_on_x: Mean of "tGravityAcc-mean()-X" from the source data, for each activity and subject. "tGravityAcc-mean()-X" is the mean for the gravity acceleration on the X axis, normalized to be in [-1, 1].
 
-10. meanOf.tGravityAcc.mean.Y: Mean of "tGravityAcc-mean()-Y" from the source data, for each activity and subject. "tGravityAcc-mean()-X" is the mean for the gravity acceleration on the Y axis, normalized to be in [-1, 1].
+10. mean_of_gravity_acceleration_on_y: Mean of "tGravityAcc-mean()-Y" from the source data, for each activity and subject. "tGravityAcc-mean()-X" is the mean for the gravity acceleration on the Y axis, normalized to be in [-1, 1].
 
-11. meanOf.tGravityAcc.mean.Z: Mean of "tGravityAcc-mean()-Z" from the source data, for each activity and subject. "tGravityAcc-mean()-X" is the mean for the gravity acceleration on the Z axis, normalized to be in [-1, 1].
+11. mean_of_gravity_acceleration_on_z: Mean of "tGravityAcc-mean()-Z" from the source data, for each activity and subject. "tGravityAcc-mean()-X" is the mean for the gravity acceleration on the Z axis, normalized to be in [-1, 1].
 
-12. meanOf.tGravityAcc.std.X: Mean of "tGravityAcc-std()-X" from the source data, for each activity and subject. "tGravityAcc-std()-X" is the standard deviation for the gravity acceleration on the X axis, normalized to be in [-1, 1].
+12. standard_deviation_of_gravity_acceleration_on_x: Mean of "tGravityAcc-std()-X" from the source data, for each activity and subject. "tGravityAcc-std()-X" is the standard deviation for the gravity acceleration on the X axis, normalized to be in [-1, 1].
 
-13. meanOf.tGravityAcc.std.Y: Mean of "tGravityAcc-std()-Y" from the source data, for each activity and subject. "tGravityAcc-std()-Y" is the standard deviation for the gravity acceleration on the Y axis, normalized to be in [-1, 1].
+13. standard_deviation_of_gravity_acceleration_on_y: Mean of "tGravityAcc-std()-Y" from the source data, for each activity and subject. "tGravityAcc-std()-Y" is the standard deviation for the gravity acceleration on the Y axis, normalized to be in [-1, 1].
 
-14. meanOf.tGravityAcc.std.Z: Mean of "tGravityAcc-std()-Z" from the source data, for each activity and subject. "tGravityAcc-std()-Z" is the standard deviation for the gravity acceleration on the Z axis, normalized to be in [-1, 1].
+14. standard_deviation_of_gravity_acceleration_on_z: Mean of "tGravityAcc-std()-Z" from the source data, for each activity and subject. "tGravityAcc-std()-Z" is the standard deviation for the gravity acceleration on the Z axis, normalized to be in [-1, 1].
 
-15. meanOf.tBodyAccJerk.mean.X: Mean of "tBodyAccJerk-mean()-X" from the source data, for each activity and subject. "tBodyAccJerk-mean()-X" is the mean for the jerk of the body acceleration on the X axis, normalized to be in [-1, 1].
+15. mean_of_jerk_body_acceleration_on_x: Mean of "tBodyAccJerk-mean()-X" from the source data, for each activity and subject. "tBodyAccJerk-mean()-X" is the mean for the jerk of the body acceleration on the X axis, normalized to be in [-1, 1].
 
-16. meanOf.tBodyAccJerk.mean.Y: Mean of "tBodyAccJerk-mean()-Y" from the source data, for each activity and subject. "tBodyAccJerk-mean()-Y" is the mean for the jerk of the body acceleration on the Y axis, normalized to be in [-1, 1].
+16. mean_of_jerk_body_acceleration_on_y: Mean of "tBodyAccJerk-mean()-Y" from the source data, for each activity and subject. "tBodyAccJerk-mean()-Y" is the mean for the jerk of the body acceleration on the Y axis, normalized to be in [-1, 1].
 
-17. meanOf.tBodyAccJerk.mean.Z: Mean of "tBodyAccJerk-mean()-Z" from the source data, for each activity and subject. "tBodyAccJerk-mean()-Z" is the mean for the jerk of the body acceleration on the Z axis, normalized to be in [-1, 1].
+17. mean_of_jerk_body_acceleration_on_z: Mean of "tBodyAccJerk-mean()-Z" from the source data, for each activity and subject. "tBodyAccJerk-mean()-Z" is the mean for the jerk of the body acceleration on the Z axis, normalized to be in [-1, 1].
 
-18. meanOf.tBodyAccJerk.std.X: Mean of "tBodyAccJerk-std()-X" from the source data, for each activity and subject. "tBodyAccJerk-std()-X" is the standard deviation for the jerk of the body acceleration on the X axis, normalized to be in [-1, 1].
+18. standard_deviation_of_jerk_body_acceleration_on_x: Mean of "tBodyAccJerk-std()-X" from the source data, for each activity and subject. "tBodyAccJerk-std()-X" is the standard deviation for the jerk of the body acceleration on the X axis, normalized to be in [-1, 1].
 
-19. meanOf.tBodyAccJerk.std.Y: Mean of "tBodyAccJerk-std()-Y" from the source data, for each activity and subject. "tBodyAccJerk-std()-Y" is the standard deviation for the jerk of the body acceleration on the Y axis, normalized to be in [-1, 1].
+19. standard_deviation_of_jerk_body_acceleration_on_y: Mean of "tBodyAccJerk-std()-Y" from the source data, for each activity and subject. "tBodyAccJerk-std()-Y" is the standard deviation for the jerk of the body acceleration on the Y axis, normalized to be in [-1, 1].
 
-20. meanOf.tBodyAccJerk.std.Z: Mean of "tBodyAccJerk-std()-Z" from the source data, for each activity and subject. "tBodyAccJerk-std()-Z" is the standard deviation for the jerk of the body acceleration on the Z axis, normalized to be in [-1, 1].
+20. standard_deviation_of_jerk_body_acceleration_on_z: Mean of "tBodyAccJerk-std()-Z" from the source data, for each activity and subject. "tBodyAccJerk-std()-Z" is the standard deviation for the jerk of the body acceleration on the Z axis, normalized to be in [-1, 1].
 
-21. meanOf.tBodyGyro.mean.X: Mean of "tBodyGyro-mean()-X" from the source data, for each activity and subject. "tBodyGyro-mean()-X" is the mean for the angular velocity taken from the gyroscope on the X axis, normalized to be in [-1, 1].
+21. mean_of_angular_velocity_on_x: Mean of "tBodyGyro-mean()-X" from the source data, for each activity and subject. "tBodyGyro-mean()-X" is the mean for the angular velocity taken from the gyroscope on the X axis, normalized to be in [-1, 1].
 
-22. meanOf.tBodyGyro.mean.Y: Mean of "tBodyGyro-mean()-Y" from the source data, for each activity and subject. "tBodyGyro-mean()-Y" is the mean for the angular velocity taken from the gyroscope on the Y axis, normalized to be in [-1, 1].
+22. mean_of_angular_velocity_on_y: Mean of "tBodyGyro-mean()-Y" from the source data, for each activity and subject. "tBodyGyro-mean()-Y" is the mean for the angular velocity taken from the gyroscope on the Y axis, normalized to be in [-1, 1].
 
-23. meanOf.tBodyGyro.mean.Z: Mean of "tBodyGyro-mean()-Z" from the source data, for each activity and subject. "tBodyGyro-mean()-Z" is the mean for the angular velocity taken from the gyroscope on the Z axis, normalized to be in [-1, 1].
+23. mean_of_angular_velocity_on_z: Mean of "tBodyGyro-mean()-Z" from the source data, for each activity and subject. "tBodyGyro-mean()-Z" is the mean for the angular velocity taken from the gyroscope on the Z axis, normalized to be in [-1, 1].
 
-24. meanOf.tBodyGyro.std.X: Mean of "tBodyGyro-std()-X" from the source data, for each activity and subject. "tBodyGyro-mean()-X" is the standard deviation for the angular velocity taken from the gyroscope on the X axis, normalized to be in [-1, 1].
+24. standard_deviation_of_angular_velocity_on_x: Mean of "tBodyGyro-std()-X" from the source data, for each activity and subject. "tBodyGyro-mean()-X" is the standard deviation for the angular velocity taken from the gyroscope on the X axis, normalized to be in [-1, 1].
 
-25. meanOf.tBodyGyro.std.Y: Mean of "tBodyGyro-std()-Y" from the source data, for each activity and subject. "tBodyGyro-mean()-Y" is the standard deviation for the angular velocity taken from the gyroscope on the Y axis, normalized to be in [-1, 1].
+25. standard_deviation_of_angular_velocity_on_y: Mean of "tBodyGyro-std()-Y" from the source data, for each activity and subject. "tBodyGyro-mean()-Y" is the standard deviation for the angular velocity taken from the gyroscope on the Y axis, normalized to be in [-1, 1].
 
-26. meanOf.tBodyGyro.std.Z: Mean of "tBodyGyro-std()-Z" from the source data, for each activity and subject. "tBodyGyro-mean()-Z" is the standard deviation for the angular velocity taken from the gyroscope on the Z axis, normalized to be in [-1, 1].
+26. standard_deviation_of_angular_velocity_on_z: Mean of "tBodyGyro-std()-Z" from the source data, for each activity and subject. "tBodyGyro-mean()-Z" is the standard deviation for the angular velocity taken from the gyroscope on the Z axis, normalized to be in [-1, 1].
 
-27. meanOf.tBodyGyroJerk.mean.X: Mean of "tBodyGyroJerk-mean()-X" from the source data, for each activity and subject. "tBodyGyroJerk-mean()-X" is the mean for the jerk of the angular velocity taken from the gyroscope on the X axis, normalized to be in [-1, 1].
+27. mean_of_jerk_angular_velocity_on_x: Mean of "tBodyGyroJerk-mean()-X" from the source data, for each activity and subject. "tBodyGyroJerk-mean()-X" is the mean for the jerk of the angular velocity taken from the gyroscope on the X axis, normalized to be in [-1, 1].
 
-28. meanOf.tBodyGyroJerk.mean.Y: Mean of "tBodyGyroJerk-mean()-Y" from the source data, for each activity and subject. "tBodyGyroJerk-mean()-Y" is the mean for the jerk of the angular velocity taken from the gyroscope on the Y axis, normalized to be in [-1, 1].
+28. mean_of_jerk_angular_velocity_on_y: Mean of "tBodyGyroJerk-mean()-Y" from the source data, for each activity and subject. "tBodyGyroJerk-mean()-Y" is the mean for the jerk of the angular velocity taken from the gyroscope on the Y axis, normalized to be in [-1, 1].
 
-29. meanOf.tBodyGyroJerk.mean.Z: Mean of "tBodyGyroJerk-mean()-Z" from the source data, for each activity and subject. "tBodyGyroJerk-mean()-Z" is the mean for the jerk of the angular velocity taken from the gyroscope on the Z axis, normalized to be in [-1, 1].
+29. mean_of_jerk_angular_velocity_on_z: Mean of "tBodyGyroJerk-mean()-Z" from the source data, for each activity and subject. "tBodyGyroJerk-mean()-Z" is the mean for the jerk of the angular velocity taken from the gyroscope on the Z axis, normalized to be in [-1, 1].
 
-30. meanOf.tBodyGyroJerk.std.X: Mean of "tBodyGyroJerk-std()-X" from the source data, for each activity and subject. "tBodyGyroJerk-mean()-X" is the standard deviation for the jerk of the angular velocity taken from the gyroscope on the X axis, normalized to be in [-1, 1].
+30. standard_deviation_of_jerk_angular_velocity_on_x: Mean of "tBodyGyroJerk-std()-X" from the source data, for each activity and subject. "tBodyGyroJerk-mean()-X" is the standard deviation for the jerk of the angular velocity taken from the gyroscope on the X axis, normalized to be in [-1, 1].
 
-31. meanOf.tBodyGyroJerk.std.Y: Mean of "tBodyGyroJerk-std()-Y" from the source data, for each activity and subject. "tBodyGyroJerk-mean()-Y" is the standard deviation for the jerk of the angular velocity taken from the gyroscope on the Y axis, normalized to be in [-1, 1].
+31. standard_deviation_of_jerk_angular_velocity_on_y: Mean of "tBodyGyroJerk-std()-Y" from the source data, for each activity and subject. "tBodyGyroJerk-mean()-Y" is the standard deviation for the jerk of the angular velocity taken from the gyroscope on the Y axis, normalized to be in [-1, 1].
 
-32. meanOf.tBodyGyroJerk.std.Z: Mean of "tBodyGyroJerk-std()-Z" from the source data, for each activity and subject. "tBodyGyroJerk-mean()-Z" is the standard deviation for the jerk of the angular velocity taken from the gyroscope on the Z axis, normalized to be in [-1, 1].
+32. standard_deviation_of_jerk_angular_velocity_on_z: Mean of "tBodyGyroJerk-std()-Z" from the source data, for each activity and subject. "tBodyGyroJerk-mean()-Z" is the standard deviation for the jerk of the angular velocity taken from the gyroscope on the Z axis, normalized to be in [-1, 1].
 
-33. meanOf.tBodyAccMag.mean: Mean of "tBodyAccMag-mean()" from the source data, for each activity and subject. "tBodyAccMag-mean()" is the mean for the magnitude of the body acceleration using the euclidian norm, normalized to be in [-1, 1].
+33. mean_of_magnitude_body_acceleration: Mean of "tBodyAccMag-mean()" from the source data, for each activity and subject. "tBodyAccMag-mean()" is the mean for the magnitude of the body acceleration using the euclidian norm, normalized to be in [-1, 1].
 
-34. meanOf.tBodyAccMag.std: Mean of "tBodyAccMag-std()" from the source data, for each activity and subject.  "tBodyAccMag-std()" is the standard deviation for the magnitude of the body acceleration using the euclidian norm, normalized to be in [-1, 1].
+34. standard_deviation_of_magnitude_body_acceleration: Mean of "tBodyAccMag-std()" from the source data, for each activity and subject.  "tBodyAccMag-std()" is the standard deviation for the magnitude of the body acceleration using the euclidian norm, normalized to be in [-1, 1].
 
-35. meanOf.tGravityAccMag.mean: Mean of "tGravityAccMag-mean()" from the source data, for each activity and subject.  "tGravityAccMag-mean()" is the mean for the magnitude of the gravity acceleration using the euclidian norm, normalized to be in [-1, 1].
+35. mean_of_magnitude_gravity_acceleration: Mean of "tGravityAccMag-mean()" from the source data, for each activity and subject.  "tGravityAccMag-mean()" is the mean for the magnitude of the gravity acceleration using the euclidian norm, normalized to be in [-1, 1].
 
-36. meanOf.tGravityAccMag.std: Mean of "tGravityAccMag-std()" from the source data, for each activity and subject. "tGravityAccMag-std()" is the standard deviation for the magnitude of the gravity acceleration using the euclidian norm, normalized to be in [-1, 1].
+36. standard_deviation_of_magnitude_gravity_acceleration: Mean of "tGravityAccMag-std()" from the source data, for each activity and subject. "tGravityAccMag-std()" is the standard deviation for the magnitude of the gravity acceleration using the euclidian norm, normalized to be in [-1, 1].
 
-37. meanOf.tBodyAccJerkMag.mean: Mean of "tBodyAccJerkMag-mean()" from the source data, for each activity and subject. "tBodyAccJerkMag-mean()" is the mean for the magnitude of the jerk of the body acceleration using the euclidian norm, normalized to be in [-1, 1].
+37. mean_of_magnitude_jerk_body_acceleration: Mean of "tBodyAccJerkMag-mean()" from the source data, for each activity and subject. "tBodyAccJerkMag-mean()" is the mean for the magnitude of the jerk of the body acceleration using the euclidian norm, normalized to be in [-1, 1].
 
-38. meanOf.tBodyAccJerkMag.std: Mean of "tBodyAccJerkMag-std()" from the source data, for each activity and subject. "tBodyAccJerkMag-std()" is the standard deviation for the magnitude of the jerk of the body acceleration using the euclidian norm, normalized to be in [-1, 1].
+38. standard_deviation_of_magnitude_jerk_body_acceleration: Mean of "tBodyAccJerkMag-std()" from the source data, for each activity and subject. "tBodyAccJerkMag-std()" is the standard deviation for the magnitude of the jerk of the body acceleration using the euclidian norm, normalized to be in [-1, 1].
 
-39. meanOf.tBodyGyroMag.mean: Mean of "tBodyGyroMag-mean()" from the source data, for each activity and subject. "tBodyGyroMag-mean()" is the mean for the magnitude of the angular velocity taken from the gyroscope using the euclidian norm, normalized to be in [-1, 1].
+39. mean_of_magnitude_angular_velocity: Mean of "tBodyGyroMag-mean()" from the source data, for each activity and subject. "tBodyGyroMag-mean()" is the mean for the magnitude of the angular velocity taken from the gyroscope using the euclidian norm, normalized to be in [-1, 1].
 
-40. meanOf.tBodyGyroMag.std: Mean of "tBodyGyroMag-std()" from the source data, for each activity and subject. "tBodyGyroMag-std()" is the standard deviation for the magnitude of the angular velocity taken from the gyroscope using the euclidian norm, normalized to be in [-1, 1].
+40. standard_deviation_of_magnitude_angular_velocity: Mean of "tBodyGyroMag-std()" from the source data, for each activity and subject. "tBodyGyroMag-std()" is the standard deviation for the magnitude of the angular velocity taken from the gyroscope using the euclidian norm, normalized to be in [-1, 1].
 
-41. meanOf.tBodyGyroJerkMag.mean: Mean of "tBodyGyroJerkMag-mean()" from the source data, for each activity and subject. "tBodyGyroJerkMag-mean()" is the mean for the magnitude of the jerk of the angular velocity taken from the gyroscope using the euclidian norm, normalized to be in [-1, 1].
+41. mean_of_magnitude_jerk_angular_velocity: Mean of "tBodyGyroJerkMag-mean()" from the source data, for each activity and subject. "tBodyGyroJerkMag-mean()" is the mean for the magnitude of the jerk of the angular velocity taken from the gyroscope using the euclidian norm, normalized to be in [-1, 1].
 
-42. meanOf.tBodyGyroJerkMag.std: Mean of "tBodyGyroJerkMag-std()" from the source data, for each activity and subject. "tBodyGyroJerkMag-std()" is the standard deviation for the magnitude of the jerk of the angular velocity taken from the gyroscope using the euclidian norm, normalized to be in [-1, 1].
+42. standard_deviation_of_magnitude_jerk_angular_velocity: Mean of "tBodyGyroJerkMag-std()" from the source data, for each activity and subject. "tBodyGyroJerkMag-std()" is the standard deviation for the magnitude of the jerk of the angular velocity taken from the gyroscope using the euclidian norm, normalized to be in [-1, 1].
 
-43. meanOf.fBodyAcc.mean.X: Mean of "fBodyAcc-mean()-X" from the source data, for each activity and subject. "fBodyAcc-mean()-X" is the mean of the result of applying a Fast Fourier transform on the body acceleration on the X axis, normalized to be in [-1, 1].
+43. mean_on_frequency_domain_of_body_acceleration_on_x: Mean of "fBodyAcc-mean()-X" from the source data, for each activity and subject. "fBodyAcc-mean()-X" is the mean of the result of applying a Fast Fourier transform on the body acceleration on the X axis, normalized to be in [-1, 1].
 
-44. meanOf.fBodyAcc.mean.Y: Mean of "fBodyAcc-mean()-Y" from the source data, for each activity and subject. "fBodyAcc-mean()-Y" is the mean of the result of applying a Fast Fourier transform on the body acceleration on the Y axis, normalized to be in [-1, 1].
+44. mean_on_frequency_domain_of_body_acceleration_on_y: Mean of "fBodyAcc-mean()-Y" from the source data, for each activity and subject. "fBodyAcc-mean()-Y" is the mean of the result of applying a Fast Fourier transform on the body acceleration on the Y axis, normalized to be in [-1, 1].
 
-45. meanOf.fBodyAcc.mean.Z: Mean of "fBodyAcc-mean()-Z" from the source data, for each activity and subject. "fBodyAcc-mean()-Z" is the mean of the result of applying a Fast Fourier transform on the body acceleration on the Z axis, normalized to be in [-1, 1].
+45. mean_on_frequency_domain_of_body_acceleration_on_z: Mean of "fBodyAcc-mean()-Z" from the source data, for each activity and subject. "fBodyAcc-mean()-Z" is the mean of the result of applying a Fast Fourier transform on the body acceleration on the Z axis, normalized to be in [-1, 1].
 
-46. meanOf.fBodyAcc.std.X: Mean of "fBodyAcc-std()-X" from the source data, for each activity and subject. "fBodyAcc-std()-X" is the standard deviation of the result of applying a Fast Fourier transform on the body acceleration on the X axis, normalized to be in [-1, 1].
+46. standard_deviation_on_frequency_domain_of_body_acceleration_on_x: Mean of "fBodyAcc-std()-X" from the source data, for each activity and subject. "fBodyAcc-std()-X" is the standard deviation of the result of applying a Fast Fourier transform on the body acceleration on the X axis, normalized to be in [-1, 1].
 
-47. meanOf.fBodyAcc.std.Y: Mean of "fBodyAcc-std()-Y" from the source data, for each activity and subject. "fBodyAcc-std()-Y" is the standard deviation of the result of applying a Fast Fourier transform on the body acceleration on the Y axis, normalized to be in [-1, 1].
+47. standard_deviation_on_frequency_domain_of_body_acceleration_on_y: Mean of "fBodyAcc-std()-Y" from the source data, for each activity and subject. "fBodyAcc-std()-Y" is the standard deviation of the result of applying a Fast Fourier transform on the body acceleration on the Y axis, normalized to be in [-1, 1].
 
-48. meanOf.fBodyAcc.std.Z: Mean of "fBodyAcc-std()-Z" from the source data, for each activity and subject. "fBodyAcc-std()-Z" is the standard deviation of the result of applying a Fast Fourier transform on the body acceleration on the Z axis, normalized to be in [-1, 1].
+48. standard_deviation_on_frequency_domain_of_body_acceleration_on_z: Mean of "fBodyAcc-std()-Z" from the source data, for each activity and subject. "fBodyAcc-std()-Z" is the standard deviation of the result of applying a Fast Fourier transform on the body acceleration on the Z axis, normalized to be in [-1, 1].
 
-49. meanOf.fBodyAcc.meanFreq.X: Mean of "fBodyAcc-meanFreq()-X" from the source data, for each activity and subject. "fBodyAcc-meanFreq()-X" is the weighted average of the frequency components from the results of applying a Fast Fourier Transform on the body acceleration on the X axis, normalized to be in [-1, 1].
+49. weighted_average_frequency_body_acceleration_on_x: Mean of "fBodyAcc-meanFreq()-X" from the source data, for each activity and subject. "fBodyAcc-meanFreq()-X" is the weighted average of the frequency components from the results of applying a Fast Fourier Transform on the body acceleration on the X axis, normalized to be in [-1, 1].
 
-50. meanOf.fBodyAcc.meanFreq.Y: Mean of "fBodyAcc-meanFreq()-Y" from the source data, for each activity and subject. "fBodyAcc-meanFreq()-Y" is the weighted average of the frequency components from the results of applying a Fast Fourier Transform on the body acceleration on the Y axis, normalized to be in [-1, 1].
+50. weighted_average_frequency_body_acceleration_on_y: Mean of "fBodyAcc-meanFreq()-Y" from the source data, for each activity and subject. "fBodyAcc-meanFreq()-Y" is the weighted average of the frequency components from the results of applying a Fast Fourier Transform on the body acceleration on the Y axis, normalized to be in [-1, 1].
 
-51. meanOf.fBodyAcc.meanFreq.Z: Mean of "fBodyAcc-meanFreq()-Z" from the source data, for each activity and subject. "fBodyAcc-meanFreq()-Y" is the weighted average of the frequency components from the results of applying a Fast Fourier Transform on the body acceleration on the Z axis, normalized to be in [-1, 1].
+51. weighted_average_frequency_body_acceleration_on_z: Mean of "fBodyAcc-meanFreq()-Z" from the source data, for each activity and subject. "fBodyAcc-meanFreq()-Y" is the weighted average of the frequency components from the results of applying a Fast Fourier Transform on the body acceleration on the Z axis, normalized to be in [-1, 1].
 
-52. meanOf.fBodyAccJerk.mean.X: Mean of "fBodyAccJerk-mean()-X" from the source data, for each activity and subject. "fBodyAccJerk-mean()-X" is the mean of the result of applying a Fast Fourier transform on the jerk of the body acceleration on the X axis, normalized to be in [-1, 1].
+52. mean_on_frequency_domain_of_jerk_body_acceleration_on_x: Mean of "fBodyAccJerk-mean()-X" from the source data, for each activity and subject. "fBodyAccJerk-mean()-X" is the mean of the result of applying a Fast Fourier transform on the jerk of the body acceleration on the X axis, normalized to be in [-1, 1].
 
-53. meanOf.fBodyAccJerk.mean.Y: Mean of "fBodyAccJerk-mean()-Y" from the source data, for each activity and subject. "fBodyAccJerk-mean()-Y" is the mean of the result of applying a Fast Fourier transform on the jerk of the body acceleration on the Y axis, normalized to be in [-1, 1].
+53. mean_on_frequency_domain_of_jerk_body_acceleration_on_y: Mean of "fBodyAccJerk-mean()-Y" from the source data, for each activity and subject. "fBodyAccJerk-mean()-Y" is the mean of the result of applying a Fast Fourier transform on the jerk of the body acceleration on the Y axis, normalized to be in [-1, 1].
 
-54. meanOf.fBodyAccJerk.mean.Z: Mean of "fBodyAccJerk-mean()-Z" from the source data, for each activity and subject. "fBodyAccJerk-mean()-Z" is the mean of the result of applying a Fast Fourier transform on the jerk of the body acceleration on the Z axis, normalized to be in [-1, 1].
+54. mean_on_frequency_domain_of_jerk_body_acceleration_on_z: Mean of "fBodyAccJerk-mean()-Z" from the source data, for each activity and subject. "fBodyAccJerk-mean()-Z" is the mean of the result of applying a Fast Fourier transform on the jerk of the body acceleration on the Z axis, normalized to be in [-1, 1].
 
-55. meanOf.fBodyAccJerk.std.X: Mean of "fBodyAccJerk-std()-X" from the source data, for each activity and subject. "fBodyAccJerk-std()-X" is the standard deviation of the result of applying a Fast Fourier transform on the jerk of the body acceleration on the X axis, normalized to be in [-1, 1].
+55. standard_deviation_on_frequency_domain_of_jerk_body_acceleration_on_x: Mean of "fBodyAccJerk-std()-X" from the source data, for each activity and subject. "fBodyAccJerk-std()-X" is the standard deviation of the result of applying a Fast Fourier transform on the jerk of the body acceleration on the X axis, normalized to be in [-1, 1].
 
-56. meanOf.fBodyAccJerk.std.Y: Mean of "fBodyAccJerk-std()-Y" from the source data, for each activity and subject. "fBodyAccJerk-std()-Y" is the standard deviation of the result of applying a Fast Fourier transform on the jerk of the body acceleration on the Y axis, normalized to be in [-1, 1].
+56. standard_deviation_on_frequency_domain_of_jerk_body_acceleration_on_y: Mean of "fBodyAccJerk-std()-Y" from the source data, for each activity and subject. "fBodyAccJerk-std()-Y" is the standard deviation of the result of applying a Fast Fourier transform on the jerk of the body acceleration on the Y axis, normalized to be in [-1, 1].
 
-57. meanOf.fBodyAccJerk.std.Z: Mean of "fBodyAccJerk-std()-Z" from the source data, for each activity and subject. "fBodyAccJerk-std()-Z" is the standard deviation of the result of applying a Fast Fourier transform on the jerk of the body acceleration on the Z axis, normalized to be in [-1, 1].
+57. standard_deviation_on_frequency_domain_of_jerk_body_acceleration_on_z: Mean of "fBodyAccJerk-std()-Z" from the source data, for each activity and subject. "fBodyAccJerk-std()-Z" is the standard deviation of the result of applying a Fast Fourier transform on the jerk of the body acceleration on the Z axis, normalized to be in [-1, 1].
 
-58. meanOf.fBodyAccJerk.meanFreq.X: Mean of "fBodyAccJerk-meanFreq()-X" from the source data, for each activity and subject. "fBodyAccJerk-meanFreq()-X" is the weighted average of the frequency components from the results of applying a Fast Fourier Transform on the jerk of the body acceleration on the X axis, normalized to be in [-1, 1].
+58. weighted_average_frequency_jerk_body_acceleration_on_x: Mean of "fBodyAccJerk-meanFreq()-X" from the source data, for each activity and subject. "fBodyAccJerk-meanFreq()-X" is the weighted average of the frequency components from the results of applying a Fast Fourier Transform on the jerk of the body acceleration on the X axis, normalized to be in [-1, 1].
 
-59. meanOf.fBodyAccJerk.meanFreq.Y: Mean of "fBodyAccJerk-meanFreq()-Y" from the source data, for each activity and subject. "fBodyAccJerk-meanFreq()-Y" is the weighted average of the frequency components from the results of applying a Fast Fourier Transform on the jerk of the body acceleration on the Y axis, normalized to be in [-1, 1].
+59. weighted_average_frequency_jerk_body_acceleration_on_y: Mean of "fBodyAccJerk-meanFreq()-Y" from the source data, for each activity and subject. "fBodyAccJerk-meanFreq()-Y" is the weighted average of the frequency components from the results of applying a Fast Fourier Transform on the jerk of the body acceleration on the Y axis, normalized to be in [-1, 1].
 
-60. meanOf.fBodyAccJerk.meanFreq.Z: Mean of "fBodyAccJerk-meanFreq()-Z" from the source data, for each activity and subject. "fBodyAccJerk-meanFreq()-Z" is the weighted average of the frequency components from the results of applying a Fast Fourier Transform on the jerk of the body acceleration on the Z axis, normalized to be in [-1, 1].
+60. weighted_average_frequency_jerk_body_acceleration_on_z: Mean of "fBodyAccJerk-meanFreq()-Z" from the source data, for each activity and subject. "fBodyAccJerk-meanFreq()-Z" is the weighted average of the frequency components from the results of applying a Fast Fourier Transform on the jerk of the body acceleration on the Z axis, normalized to be in [-1, 1].
 
-61. meanOf.fBodyGyro.mean.X: Mean of "fBodyGyro-mean()-X" from the source data, for each activity and subject. "fBodyGyro-mean()-X" is the mean of the result of applying a Fast Fourier Transform on the angular velocity taken from the gyroscope on the X axis, normalized to be in [-1, 1]. 
+61. mean_on_frequency_domain_of_angular_velocity_on_x: Mean of "fBodyGyro-mean()-X" from the source data, for each activity and subject. "fBodyGyro-mean()-X" is the mean of the result of applying a Fast Fourier Transform on the angular velocity taken from the gyroscope on the X axis, normalized to be in [-1, 1]. 
 
-62. meanOf.fBodyGyro.mean.Y: Mean of "fBodyGyro-mean()-Y" from the source data, for each activity and subject. "fBodyGyro-mean()-Y" is the mean of the result of applying a Fast Fourier Transform on the angular velocity taken from the gyroscope on the Y axis, normalized to be in [-1, 1]. 
+62. mean_on_frequency_domain_of_angular_velocity_on_y: Mean of "fBodyGyro-mean()-Y" from the source data, for each activity and subject. "fBodyGyro-mean()-Y" is the mean of the result of applying a Fast Fourier Transform on the angular velocity taken from the gyroscope on the Y axis, normalized to be in [-1, 1]. 
 
-63. meanOf.fBodyGyro.mean.Z: Mean of "fBodyGyro-mean()-Z" from the source data, for each activity and subject. "fBodyGyro-mean()-Z" is the mean of the result of applying a Fast Fourier Transform on the angular velocity taken from the gyroscope on the Z axis, normalized to be in [-1, 1]. 
+63. mean_on_frequency_domain_of_angular_velocity_on_z: Mean of "fBodyGyro-mean()-Z" from the source data, for each activity and subject. "fBodyGyro-mean()-Z" is the mean of the result of applying a Fast Fourier Transform on the angular velocity taken from the gyroscope on the Z axis, normalized to be in [-1, 1]. 
 
-64. meanOf.fBodyGyro.std.X: Mean of "fBodyGyro-std()-X" from the source data, for each activity and subject. "fBodyGyro-std()-X" is the standard deviation of the result of applying a Fast Fourier Transform on the angular velocity taken from the gyroscope on the X axis, normalized to be in [-1, 1]. 
+64. standard_deviation_on_frequency_domain_of_angular_velocity_on_x: Mean of "fBodyGyro-std()-X" from the source data, for each activity and subject. "fBodyGyro-std()-X" is the standard deviation of the result of applying a Fast Fourier Transform on the angular velocity taken from the gyroscope on the X axis, normalized to be in [-1, 1]. 
 
-65. meanOf.fBodyGyro.std.Y: Mean of "fBodyGyro-std()-Y" from the source data, for each activity and subject. "fBodyGyro-std()-Y" is the standard deviation of the result of applying a Fast Fourier Transform on the angular velocity taken from the gyroscope on the Y axis, normalized to be in [-1, 1]. 
+65. standard_deviation_on_frequency_domain_of_angular_velocity_on_y: Mean of "fBodyGyro-std()-Y" from the source data, for each activity and subject. "fBodyGyro-std()-Y" is the standard deviation of the result of applying a Fast Fourier Transform on the angular velocity taken from the gyroscope on the Y axis, normalized to be in [-1, 1]. 
 
-66. meanOf.fBodyGyro.std.Z: Mean of "fBodyGyro-std()-Z" from the source data, for each activity and subject. "fBodyGyro-std()-Z" is the standard deviation of the result of applying a Fast Fourier Transform on the angular velocity taken from the gyroscope on the Z axis, normalized to be in [-1, 1]. 
+66. standard_deviation_on_frequency_domain_of_angular_velocity_on_z: Mean of "fBodyGyro-std()-Z" from the source data, for each activity and subject. "fBodyGyro-std()-Z" is the standard deviation of the result of applying a Fast Fourier Transform on the angular velocity taken from the gyroscope on the Z axis, normalized to be in [-1, 1]. 
 
-67. meanOf.fBodyGyro.meanFreq.X: Mean of "fBodyGyro-meanFreq()-X" from the source data, for each activity and subject. "fBodyGyro-meanFreq()-X" is the weighted average of the frequency components from the results of applying a Fast Fourier Transform on the angular velocity taken from the gyroscope on the X axis, normalized to be in [-1, 1].
+67. weighted_average_frequency_angular_velocity_on_x: Mean of "fBodyGyro-meanFreq()-X" from the source data, for each activity and subject. "fBodyGyro-meanFreq()-X" is the weighted average of the frequency components from the results of applying a Fast Fourier Transform on the angular velocity taken from the gyroscope on the X axis, normalized to be in [-1, 1].
 
-68. meanOf.fBodyGyro.meanFreq.Y: Mean of "fBodyGyro-meanFreq()-Y" from the source data, for each activity and subject. "fBodyGyro-meanFreq()-Y" is the weighted average of the frequency components from the results of applying a Fast Fourier Transform on the angular velocity taken from the gyroscope on the Y axis, normalized to be in [-1, 1].
+68. weighted_average_frequency_angular_velocity_on_y: Mean of "fBodyGyro-meanFreq()-Y" from the source data, for each activity and subject. "fBodyGyro-meanFreq()-Y" is the weighted average of the frequency components from the results of applying a Fast Fourier Transform on the angular velocity taken from the gyroscope on the Y axis, normalized to be in [-1, 1].
 
-69. meanOf.fBodyGyro.meanFreq.Z: Mean of "fBodyGyro-meanFreq()-Z" from the source data, for each activity and subject. "fBodyGyro-meanFreq()-Z" is the weighted average of the frequency components from the results of applying a Fast Fourier Transform on the angular velocity taken from the gyroscope on the Z axis, normalized to be in [-1, 1].
+69. weighted_average_frequency_angular_velocity_on_z: Mean of "fBodyGyro-meanFreq()-Z" from the source data, for each activity and subject. "fBodyGyro-meanFreq()-Z" is the weighted average of the frequency components from the results of applying a Fast Fourier Transform on the angular velocity taken from the gyroscope on the Z axis, normalized to be in [-1, 1].
 
-70. meanOf.fBodyAccMag.mean: Mean of "fBodyAccMag-mean()" from the source data, for each activity and subject. "fBodyAccMag-mean()" is the mean of the result of applying a Fast Fourier Transform on the the magnitude of the body acceleration using the euclidian norm, normalized to be in [-1, 1].
+70. mean_on_frequency_domain_of_magnitude_body_acceleration: Mean of "fBodyAccMag-mean()" from the source data, for each activity and subject. "fBodyAccMag-mean()" is the mean of the result of applying a Fast Fourier Transform on the the magnitude of the body acceleration using the euclidian norm, normalized to be in [-1, 1].
 
-71. meanOf.fBodyAccMag.std: Mean of "fBodyAccMag-std()" from the source data, for each activity and subject. "fBodyAccMag-std()" is the standard deviation of the result of applying a Fast Fourier Transform on the the magnitude of the body acceleration using the euclidian norm, normalized to be in [-1, 1].
+71. standard_deviation_on_frequency_domain_of_magnitude_body_acceleration: Mean of "fBodyAccMag-std()" from the source data, for each activity and subject. "fBodyAccMag-std()" is the standard deviation of the result of applying a Fast Fourier Transform on the the magnitude of the body acceleration using the euclidian norm, normalized to be in [-1, 1].
 
-72. meanOf.fBodyAccMag.meanFreq: Mean of "fBodyAccMag-meanFreq()" from the source data, for each activity and subject. "fBodyAccMag-meanFreq()" is the weighted average of the frequency components from the result of applying a Fast Fourier Transform on the magnitude of the body acceleration using the euclidian norm, normalized to be in [-1, 1].
+72. weighted_average_frequency_of_magnitude_body_acceleration: Mean of "fBodyAccMag-meanFreq()" from the source data, for each activity and subject. "fBodyAccMag-meanFreq()" is the weighted average of the frequency components from the result of applying a Fast Fourier Transform on the magnitude of the body acceleration using the euclidian norm, normalized to be in [-1, 1].
 
-73. meanOf.fBodyBodyAccJerkMag.mean: Mean of "fBodyBodyAccJerkMag-mean()" from the source data, for each activity and subject. "fBodyBodyAccJerkMag-mean()" is the mean of the result of applying a Fast Fourier Transform on the magnitude of the jerk of the body acceleration using the euclidian norm, normalized to be in [-1, 1].
+73. mean_on_frequency_domain_of_jerk_body_acceleration: Mean of "fBodyBodyAccJerkMag-mean()" from the source data, for each activity and subject. "fBodyBodyAccJerkMag-mean()" is the mean of the result of applying a Fast Fourier Transform on the magnitude of the jerk of the body acceleration using the euclidian norm, normalized to be in [-1, 1].
 
-74. meanOf.fBodyBodyAccJerkMag.std: Mean of "fBodyBodyAccJerkMag-std()" from the source data, for each activity and subject. "fBodyBodyAccJerkMag-std()" is the standard deviation of the result of applying a Fast Fourier Transform on the magnitude of the jerk of the body acceleration using the euclidian norm, normalized to be in [-1, 1]. 
+74. standard_deviation_on_frequency_domain_of_jerk_body_acceleration: Mean of "fBodyBodyAccJerkMag-std()" from the source data, for each activity and subject. "fBodyBodyAccJerkMag-std()" is the standard deviation of the result of applying a Fast Fourier Transform on the magnitude of the jerk of the body acceleration using the euclidian norm, normalized to be in [-1, 1]. 
 
-75. meanOf.fBodyBodyAccJerkMag.meanFreq: Mean of "fBodyBodyAccJerkMag-meanFreq()" from the source data, for each activity and subject. "fBodyBodyAccJerkMag-meanFreq()" is the weighted average of the frequency components from the result of applying a Fast Fourier Transform on the the magnitude of the jerk of the body acceleration using the euclidian norm, normalized to be in [-1, 1].
+75. weighted_average_frequency_of_jerk_body_acceleration: Mean of "fBodyBodyAccJerkMag-meanFreq()" from the source data, for each activity and subject. "fBodyBodyAccJerkMag-meanFreq()" is the weighted average of the frequency components from the result of applying a Fast Fourier Transform on the the magnitude of the jerk of the body acceleration using the euclidian norm, normalized to be in [-1, 1].
 
-76. meanOf.fBodyBodyGyroMag.mean: Mean of "fBodyBodyGyroMag-mean()" from the source data, for each activity and subject. "fBodyBodyGyroMag-mean()" is the mean of the result of applying a Fast Fourier Transform on the magnitude of the angular velocity taken from the gyroscope using the euclidian norm, normalized to be in [-1, 1].
+76. mean_on_frequency_domain_of_magnitude_angular_velocity: Mean of "fBodyBodyGyroMag-mean()" from the source data, for each activity and subject. "fBodyBodyGyroMag-mean()" is the mean of the result of applying a Fast Fourier Transform on the magnitude of the angular velocity taken from the gyroscope using the euclidian norm, normalized to be in [-1, 1].
 
-77. meanOf.fBodyBodyGyroMag.std: Mean of "fBodyBodyGyroMag-std()" from the source data, for each activity and subject. "fBodyBodyGyroMag-std()" is the standard deviation of the result of applying a Fast Fourier Transform on the magnitude of the angular velocity taken from the gyroscope using the euclidian norm, normalized to be in [-1, 1].
+77. standard_deviation_on_frequency_domain_of_magnitude_angular_velocity: Mean of "fBodyBodyGyroMag-std()" from the source data, for each activity and subject. "fBodyBodyGyroMag-std()" is the standard deviation of the result of applying a Fast Fourier Transform on the magnitude of the angular velocity taken from the gyroscope using the euclidian norm, normalized to be in [-1, 1].
 
-78. meanOf.fBodyBodyGyroMag.meanFreq: Mean of "fBodyBodyGyroMag-meanFreq()" from the source data, for each activity and subject. "fBodyBodyGyroMag-meanFreq()" is the mean of the result of applying a Fast Fourier Transform on the magnitude of the angular velocity taken from the gyroscope using the euclidian norm, normalized to be in [-1, 1].
+78. weighted_average_frequency_of_magnitude_angular_velocity: Mean of "fBodyBodyGyroMag-meanFreq()" from the source data, for each activity and subject. "fBodyBodyGyroMag-meanFreq()" is the mean of the result of applying a Fast Fourier Transform on the magnitude of the angular velocity taken from the gyroscope using the euclidian norm, normalized to be in [-1, 1].
 
-79. meanOf.fBodyBodyGyroJerkMag.mean: Mean of "fBodyBodyGyroJerkMag-mean()" from the source data, for each activity and subject. "fBodyBodyGyroJerkMag-mean()" is the mean of the result of applying a Fast Fourier Transform on the magnitude of the jerk of the angular velocity taken from the gyroscope using the euclidian norm, normalized to be in [-1, 1].
+79. mean_on_frequency_domain_of_magnitude_jerk_angular_velocity: Mean of "fBodyBodyGyroJerkMag-mean()" from the source data, for each activity and subject. "fBodyBodyGyroJerkMag-mean()" is the mean of the result of applying a Fast Fourier Transform on the magnitude of the jerk of the angular velocity taken from the gyroscope using the euclidian norm, normalized to be in [-1, 1].
 
-80. meanOf.fBodyBodyGyroJerkMag.std: Mean of "fBodyBodyGyroJerkMag-std()" from the source data, for each activity and subject. "fBodyBodyGyroJerkMag-std()" is the standard deviation of the result of applying a Fast Fourier Transform on the magnitude of the jerk of the angular velocity taken from the gyroscope using the euclidian norm, normalized to be in [-1, 1].
+80. standard_deviation_on_frequency_domain_of_magnitude_jerk_angular_velocity: Mean of "fBodyBodyGyroJerkMag-std()" from the source data, for each activity and subject. "fBodyBodyGyroJerkMag-std()" is the standard deviation of the result of applying a Fast Fourier Transform on the magnitude of the jerk of the angular velocity taken from the gyroscope using the euclidian norm, normalized to be in [-1, 1].
 
-81. meanOf.fBodyBodyGyroJerkMag.meanFreq: Mean of "fBodyBodyGyroJerkMag-meanFreq()" from the source data, for each activity and subject. "fBodyBodyGyroJerkMag-meanFreq()" is the weighted average of the frequency components from the result of applying a Fast Fourier Transform on the magnitude of the jerk of the angular velocity taken from the gyroscope using the euclidian norm, normalized to be in [-1, 1].
+81. weighted_average_frequency_of_magnitude_jerk_angular_velocity: Mean of "fBodyBodyGyroJerkMag-meanFreq()" from the source data, for each activity and subject. "fBodyBodyGyroJerkMag-meanFreq()" is the weighted average of the frequency components from the result of applying a Fast Fourier Transform on the magnitude of the jerk of the angular velocity taken from the gyroscope using the euclidian norm, normalized to be in [-1, 1].

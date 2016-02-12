@@ -19,6 +19,8 @@ Only columns with name containing "mean" or "std" were kept from the measurement
 
 Activity labels are combined with this data frame by joining the activity label data with the "activity_id" column created from the activities files. This gives us descriptive activity names.
 
+All columns with measurements are renamed to use more descriptive names.
+
 We create a new dataset computing averages for each measurement grouped by activity and subject. This operation keeps data in a wide format, with a column for each measurement column in the intermediate dataset. This way, each line is a record for averages of means and standard deviations for measurements from a pair of activity and subject. This is the data set we save to a file named result.txt.
 
 Resulting dataset
