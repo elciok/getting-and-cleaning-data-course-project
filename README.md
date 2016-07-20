@@ -32,3 +32,5 @@ You can view the data using the following code:
 
 	result <- read.table("./result.txt", header = TRUE) 
 	View(result)
+
+
